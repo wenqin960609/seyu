@@ -1,9 +1,9 @@
-		网络模型				对应网络协议
+		网络模型											对应网络协议
 
-7		应用层				HTTP、FTP
-6		表示层				Telnet、SNMP
-5		会话层				SMTP、DNS
-4		传输层				TCP、UDP
-3		网络层				IP、ICMP、ARP、RARP
-2		数据链路层		Ethernet、PPP
-1		物理层				IEEE802.1A、IEEE802.2到IEEE802.11
+7		应用层		（报文）						HTTP、FTP
+6		表示层		（用户数据）				Telnet、SNMP
+5		会话层		（用户数据）				SMTP、DNS
+4		传输层		（数据分组）				TCP、UDP
+3		网络层	  （单位：数据报文）	IP、ICMP、ARP、RARP
+2		数据链路层（单位：帧）				Ethernet、PPP
+1		物理层	   (单位；比特流)			IEEE802.1A、IEEE802.2到IEEE802.11
