@@ -1,0 +1,6 @@
+		网络模型			对应协议
+
+4		应用层				HTTP、FTP		
+3		传输层				Telnet、DNS、SNMP、SMTP、TCP、UDP
+2		网络层				IP、ICMP、ARP、RARP
+1		物理层				Ethernet、PPP、IEEE802.1A、IEEE802.2到IEEE802.11
